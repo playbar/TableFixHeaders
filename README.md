@@ -1,4 +1,8 @@
 # TableFixHeaders
+
+[DISCONTINUED] This project it's not deprecated, it do what it must, but we
+don't have time to improve it or, even, answer issues.
+
 ## What is it?
 TableFixHeaders is an Android widget to display tables with headers.
 
@@ -16,7 +20,7 @@ TableFixHeaders is an Android widget to display tables with headers.
 
 ## Technical information
 
-* Required minimum API level: 4
+* Required minimum API level: 5
 
 * Supports all the screens sizes and density.
 
